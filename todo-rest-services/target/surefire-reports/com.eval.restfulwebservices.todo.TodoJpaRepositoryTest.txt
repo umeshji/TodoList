@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.eval.restfulwebservices.todo.TodoJpaRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.201 s - in com.eval.restfulwebservices.todo.TodoJpaRepositoryTest

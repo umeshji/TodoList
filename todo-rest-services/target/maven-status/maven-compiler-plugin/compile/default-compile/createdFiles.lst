@@ -1,0 +1,7 @@
+com\eval\restfulwebservices\todo\TodoJpaResource.class
+com\eval\restfulwebservices\todo\TodoJpaRepository.class
+com\eval\restfulwebservices\basic\auth\AuthenticationBean.class
+com\eval\restfulwebservices\basic\auth\BasicAuthenticationController.class
+com\eval\restfulwebservices\basic\auth\SpringSecurityConfigurationBasicAuth.class
+com\eval\restfulwebservices\todo\Todo.class
+com\eval\restfulwebservices\RestfulWebServicesApplication.class

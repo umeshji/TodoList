@@ -1,0 +1,4 @@
+com\eval\restfulwebservices\todo\TodoJpaRepositoryTest.class
+com\eval\restfulwebservices\todo\TodoJpaResourceTest.class
+com\eval\restfulwebservices\basic\auth\BasicAuthenticationControllerTest.class
+com\eval\restfulwebservices\RestfulWebServicesApplicationTests.class
